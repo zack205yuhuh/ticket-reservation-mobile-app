@@ -1,0 +1,5 @@
+kivy
+kivymd
+fastapi
+sqlalchemy
+mysql-connector-python
